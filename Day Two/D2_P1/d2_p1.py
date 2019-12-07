@@ -1,5 +1,5 @@
 def parseInput():
-    inputFile = open("C:\Projects\AdventOfCode\Day Two\D2_P1\input", "r")
+    inputFile = open("C:\Projects\AdventOfCode\Day Two\D2_P1\input_d2_p2", "r")
     inputString = inputFile.read()
     intcodeArray = inputString.split(",")
 

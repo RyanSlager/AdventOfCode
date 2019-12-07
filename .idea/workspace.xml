@@ -40,17 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day Two/D2_P1/d2_p1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day Two/D2_P1/test">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="187">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -59,7 +50,16 @@
         <entry file="file://$PROJECT_DIR$/Day Two/D2_P1/input">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="378" />
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day Two/D2_P1/input_d2_p2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="379" selection-start-column="379" selection-end-column="379" />
             </state>
           </provider>
         </entry>
@@ -82,8 +82,9 @@
         <option value="$PROJECT_DIR$/Day One/D1_P1/input" />
         <option value="$PROJECT_DIR$/Day One/D1_P1/d1_p1.py" />
         <option value="$PROJECT_DIR$/Day One/D1_P2/d1_p2.py" />
-        <option value="$PROJECT_DIR$/Day Two/D2_P1/input" />
         <option value="$PROJECT_DIR$/Day Two/D2_P1/test" />
+        <option value="$PROJECT_DIR$/Day Two/D2_P1/input_d2_p2" />
+        <option value="$PROJECT_DIR$/Day Two/D2_P1/input" />
         <option value="$PROJECT_DIR$/Day Two/D2_P1/d2_p1.py" />
       </list>
     </option>
@@ -227,7 +228,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
@@ -238,7 +238,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -256,24 +256,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day One/D1_P2/d1_p2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day One/D1_P1/input">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
           <caret line="99" column="6" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day Two/D2_P1/input">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="378" />
         </state>
       </provider>
     </entry>
@@ -284,10 +270,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day Two/D2_P1/d2_p1.py">
+    <entry file="file://$PROJECT_DIR$/Day One/D1_P2/d1_p2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day Two/D2_P1/input_d2_p2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="379" selection-start-column="379" selection-end-column="379" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day Two/D2_P1/input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day Two/D2_P1/d2_p1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
